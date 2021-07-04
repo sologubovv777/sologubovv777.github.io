@@ -101,9 +101,9 @@ nav label:hover{
     display: inline-block;
     padding: 5px 5px 5px 70px;
     width: 200px;
-    background: white url(https://en.js.cx/clipart/prompt.png) no-repeat left 5px;
+    background: rgb(92, 92, 92) url(https://en.js.cx/clipart/prompt.png) no-repeat left 5px;
     vertical-align: middle;
-    
+    border-radius:10%
 }
   
 #prompt-form-container {
@@ -235,7 +235,7 @@ nav label:hover{
     padding-bottom: 2em;
 }
 .copy-w3right {
-    background: #191919;
+    background: #4a10e7;
     padding: 1.5em 0;
     text-align: center;
 }
@@ -245,12 +245,12 @@ nav label:hover{
     }
 } */
 .copy-w3right p {
-    color: #fff;
+    color: rgb(253, 16, 16);
     text-align: center;
     letter-spacing: 2px;
 }
 .copy-w3right p a {
-    color: #ff5722;
+    color: #000000;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
     transition: 0.5s all;
